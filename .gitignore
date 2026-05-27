@@ -1,0 +1,10 @@
+# Roblox output / local files
+*.rbxl.lock
+*.rbxlx.lock
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Tooling
+.vscode/
