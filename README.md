@@ -383,21 +383,3 @@ RunService.Heartbeat:Connect(function(dt)
 	world:Update(dt)
 end)
 ```
-
-## Rojo
-
-The project is mapped as:
-
-```text
-ReplicatedStorage.ECS -> ReplicatedStorage/ECS
-```
-
-Run:
-
-```powershell
-cd C:\Users\mikol\Desktop\ecs
-rojo serve
-```
-
-Then connect from Roblox Studio using the Rojo plugin.
-
