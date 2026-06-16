@@ -1,0 +1,11 @@
+{
+  "name": "ecs",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "ECS": {
+        "$path": "ReplicatedStorage/ECS"
+      }
+    }
+  }
+}
